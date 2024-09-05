@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Epic Minds IT",
+    "startDate": "August, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Developed and maintained full-stack applications using React, Node.js, and .NET",
+      "Led the development of a mobile application using React Native",
+      "Integrated RESTful APIs and ensured seamless data flow between frontend and backend",
+      "Optimized SQL Server queries, improving database performance by 30%",
+      "Assisted in the development of a large-scale enterprise application using ASP.NET.",
+      "Worked on the GangaKalyan project, focusing on backend development.",
+      "Contributed to the POS (Project-OverSight) project by implementing frontend components in React.js.",
+      "Collaborated with senior engineers to refine and optimize application architecture."
+    ],
+    "imageSrc": "history/EM.png"
+  }
+  
+]

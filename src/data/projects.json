@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Supplier Diversity Management System (SDMS)",
+    "imageSrc": "projects/sdms.png",
+    "description": "Created and maintained a corporate website, ensuring compliance with ADA, WCAG 2.0 AA, and WCAG 2.1 AA accessibility standards. This project was developed using .NET Core, C#, HTML5, CSS3, jQuery, Bootstrap, and MS SQL. It also integrated two-factor authentication (2FA) protocols to enhance security. Additionally, front-end enhancements were implemented to improve user experience and accessibility, especially for color-blind users.",
+    "skills": [".NET Core", "C#", "HTML5", "CSS3", "jQuery", "Bootstrap", "SQL Server"],
+    "demo": "http://sdms.coolsofttech.com/",
+    "source": "https://www.github.com/sdms"
+  },
+  {
+    "title": "Ganga Kalyana Application",
+    "imageSrc": "projects/ganga_kalyana.png",
+    "description": "A government initiative designed to provide borewells to economically disadvantaged members of the Backward Class community. This application ensures proper allocation and utilization of funds to support sustainable water access in underserved areas.",
+    "skills": ["React Native", "C#", "MVC5", "SQL Server"],
+    "demo": "https://gangakalyanabcwd.karnataka.gov.in",
+    "source": "https://www.github.com/ganga_kalyana"
+  },
+  {
+    "title": "Health and Nutrition Survey Application",
+    "imageSrc": "projects/health_nutrition_survey.png",
+    "description": "A comprehensive survey platform aimed at collecting health and nutrition data from 6.6 crore citizens in Karnataka. The data gathered supports governmental planning and policy-making to improve public health and nutrition programs.",
+    "skills": ["React Native", "C#", "MVC5", "Realm", "SQL Server"],
+    "demo": "http://hns.karnataka.gov.in",
+    "source": "https://www.github.com/health_nutrition_survey"
+  },
+  {
+    "title": "Karmani Web Application",
+    "imageSrc": "projects/karmani.png",
+    "description": "A specialized platform for collecting and managing data on transgender individuals in Karnataka. This application facilitates the distribution of government benefits and ensures that the needs of the transgender community are adequately addressed.",
+    "skills": ["React JS", "C#", "SQL Server"],
+    "demo": "https://karmanikswdc.karnataka.gov.in/Login",
+    "source": "https://www.github.com/karmani"
+  },
+  {
+    "title": "BOCW_CESS Web Application",
+    "imageSrc": "projects/bocw_cess.png",
+    "description": "A dedicated platform for managing welfare programs specifically for construction workers in Karnataka. The application focuses on health and safety measures, ensuring that workers receive the support and benefits they need.",
+    "skills": ["React JS", "Microservices", "C#", "SQL Server"],
+    "demo": "http://ec2-52-201-109-83.compute-1.amazonaws.com/#/login",
+    "source": "https://www.github.com/bocw_cess"
+  },
+  {
+    "title": "Project Oversight Application",
+    "imageSrc": "projects/project_oversight.png",
+    "description": "A robust tool designed for managing project schedules, tasks, and assets. This application enhances productivity and time tracking within the company by providing a centralized system for project management and oversight.",
+    "skills": ["React Native", "React JS", "C#", "SQL Server"],
+    "demo": "https://posuat.epicmindsitapi.in/Login",
+    "source": "https://www.github.com/project_oversight"
+  },
+  {
+    "title": "Asset Management System Mobile Application",
+    "imageSrc": "projects/asset_management.png",
+    "description": "A mobile application designed for efficient asset tracking, management, and maintenance. Built with React Native for the frontend, C# for the backend, and SQL Server for the database, it includes features such as asset creation, modification, deletion, and detailed reporting for improved asset utilization and oversight.",
+    "skills": ["React Native", "C#", "SQL Server"],
+    "demo": "",
+    "source": "https://www.github.com/asset_management"
+  }
+]

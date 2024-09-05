@@ -1,0 +1,18 @@
+
+
+
+:root {
+  /* Colors */
+  --color-text: #2C2C2C; /* Slightly lighter dark gray for better integration with the soft gradient */
+  --color-primary: #3A8DFF; /* Softer blue to match the gentle tones of the background */
+  --color-secondary: #7A7D85; /* Soft gray to complement the light gradient */
+  --color-dark: #52575D; /* Medium gray for accents, blending with the gradient */
+  --color-bg: #FFFFFF; /* White for the main background sections */
+
+  /* Fonts */
+  --font-roboto: "Roboto", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #FFFFFF, #FAFAFA, #F0F0F0);
+}
