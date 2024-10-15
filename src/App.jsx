@@ -54,12 +54,25 @@ function App() {
       try {
         if (hasSavedVisitorInfo.current) return; // Prevent saving if already done
 
-        // Create the visitor information object
+
+        const now = new Date();
+      const options = { timeZone: "Asia/Kolkata", hour12: false };
+      const indianDateTime = new Intl.DateTimeFormat("en-GB", {
+        ...options,
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit",
+      }).format(now);
+
+
         const visitorInfo = {
-          timestamp: new Date().toISOString(),
+          timestamp: indianDateTime,
           userAgent: navigator.userAgent,
           referrer: document.referrer,
-          ipInfo: await getIPLocation(), // Store IP info
+          ipInfo: await getIPLocation(),
         };
 
         // Add a new document with visitor information
